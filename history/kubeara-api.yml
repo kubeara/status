@@ -1,7 +1,7 @@
 url: https://api.kubeara.dev/api/health
 status: up
 code: 200
-responseTime: 403
-lastUpdated: 2026-07-07T00:15:31.984Z
+responseTime: 417
+lastUpdated: 2026-07-08T00:04:31.132Z
 startTime: 2026-06-11T08:10:55.771Z
 generator: Upptime <https://github.com/upptime/upptime>
