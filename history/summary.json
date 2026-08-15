@@ -5,17 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kubeara.dev.ico",
     "slug": "kubeara-api",
     "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 827,
-    "timeDay": 9985,
-    "timeWeek": 2962,
-    "timeMonth": 1194,
-    "timeYear": 827,
-    "dailyMinutesDown": {}
+    "uptime": "99.04%",
+    "uptimeDay": "38.00%",
+    "uptimeWeek": "91.14%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "99.04%",
+    "time": 1110,
+    "timeDay": 19577,
+    "timeWeek": 5314,
+    "timeMonth": 1793,
+    "timeYear": 1110,
+    "dailyMinutesDown": {
+      "2026-08-15": 83,
+      "2026-08-14": 810
+    }
   },
   {
     "name": "Kubeara Dashboard",
@@ -28,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 255,
-    "timeWeek": 248,
-    "timeMonth": 214,
-    "timeYear": 198,
+    "time": 196,
+    "timeDay": 88,
+    "timeWeek": 179,
+    "timeMonth": 211,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 256,
-    "timeWeek": 338,
-    "timeMonth": 264,
-    "timeYear": 242,
+    "time": 241,
+    "timeDay": 147,
+    "timeWeek": 203,
+    "timeMonth": 265,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   }
 ]
