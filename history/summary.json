@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kubeara.dev.ico",
     "slug": "kubeara-api",
     "status": "up",
-    "uptime": "98.64%",
+    "uptime": "98.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "98.64%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.65%",
     "time": 984,
     "timeDay": 0,
     "timeWeek": 0,
@@ -52,7 +52,7 @@
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 206,
+    "timeMonth": 203,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
