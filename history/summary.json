@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.kubeara.dev.ico",
     "slug": "kubeara-api",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.68%",
     "time": 984,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 493,
+    "timeMonth": 505,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2026-08-15": 1072,
@@ -34,7 +34,7 @@
     "time": 193,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 188,
+    "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {}
   },
@@ -52,7 +52,7 @@
     "time": 234,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 205,
+    "timeMonth": 204,
     "timeYear": 234,
     "dailyMinutesDown": {}
   }
